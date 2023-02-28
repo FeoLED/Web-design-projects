@@ -14,14 +14,15 @@ img{
 .container, .footer{
 	box-shadow: 2px -4px 12px #56d;
 }
-h1{
-	padding : 7px;
+header{
 	padding-left: 10px;
 	border: 1px solid #fff;
 	margin-bottom: 4px;
+	box-shadow: 2px -4px 12px #56d;
+}
+h1{
 	text-shadow: 2px -2px 7px #56d;
 	letter-spacing: 2px;
-	box-shadow: 2px -4px 12px #56d;
 }
 h2,h3{
 	text-shadow: 2px -1px 9px #56d;
@@ -53,6 +54,9 @@ img{
 } 
 a{
 	color: #0c2;
+}
+i{
+	padding-right: 5px;
 }
 @media only screen and (max-width: 750px){
 	
